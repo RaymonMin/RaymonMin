@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Ruiming (Raymon) Min</h1>
-<h3 align="center">A UG-student in Hong Kong</h3>
+<h3 align="center">A PhD-student in UMN</h3>
 
 - 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com), you can know me more though this website.
 
