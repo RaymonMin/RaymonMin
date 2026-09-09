@@ -3,13 +3,13 @@
 
 - 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com), you can know me more though this website.
 
-- 🔭 I’m currently working on **Synthetic Data in Generation Model** and **Policy Learning**.
+- 🔭 I’m currently working on **Synthetic Data in Generation Model**.
 
-- 🌱 I’m currently learning **Math and Computer Science**.
+- 🌱 I’m currently learning **Statistics**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaymonMin](https://github.com/RaymonMin)
 
-- 📫 How to reach me **rmin@connect.ust.hk** or **raymon@ruimingmin.com**.
+- 📫 How to reach me **min00089@umn.edu** or **raymon@ruimingmin.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
